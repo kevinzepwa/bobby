@@ -1,0 +1,73 @@
+{
+  "main": {
+    "name":"Vincent Kiptoo",
+    "description":"Thank you for showing faith in me by nominating me for the position of AMSUN Extrnal Affairs Representative. Now, we have the one task remainig of casting our votes. Here is the change we have all been waiting for.",
+    "image":"profilepic.jpg",
+    "bio":"'A leader with Passion, Excellence & Experience.' My name is Vincent Kiptoo, a 6th-year Medical Student. As a leader, I have learnt to listen. I have also learnt the value of collaborating for optimal outcomes. I believe that, TOGETHER, we shall do a good job to bridge the gap between medical students and opportunities_through partnerships & collaborations which often go untapped. My promise is to deliver on the mandate of the External Affairs Office & the larger AMSUN.",
+    "contactmessage":"Get in Touch.",
+    "email": "vincent.bob@gmail.com",
+    "phone": "0700316813",
+    "social":[
+      {
+        "name":"facebook",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+   "resume":{
+    "skillmessage":"Here you can create a short write-up of your the strategic plan",
+    "plan": [
+      {
+        "level": "For the Formative Years",
+        "strategy": "A Plan to Uplift all Medics",
+        "Timeline": "Academics & Activities in Equal Measure",
+        "description": "1. Subsidized training for BLS and ATLS (for all).",
+        "description2": "2. Expand connection with corporate partners to fund AMSUN activities.",
+        "description3": "3. Widen Opportunities For Clinical and Non-clinical Electives, Research programs, Health Technology, and Entrepreneurships Locally and Globally.",
+        "description4": "4. Expand and link with Microsoft and Samsung, with whom I have been enganging with for 2 years now. This will foster mentorship on Health Innovation.",
+        "description5": "5. Upscaling of Mentorship program and subsidized training for BLS and ATLS (for all)."
+      }
+    ],
+    "work": [
+      {
+        "level2": "Inclusive Strategic Action Plan",
+        "title": "For the Formative Years",
+        "years": "Years 1 and 2",
+        "description": "- Upscaling of Mentorship program and strengthen review sessions."
+      },
+      {
+        "level2": ".......................................",
+        "title": "For Junior Clinical Years",
+        "years": "Year 3",
+        "description": "- Promote Availability of USMLE, PLAB, and AMC Materials."
+      },
+      {
+        "level2": ".......................................",
+        "title": "For the Seniors",
+        "years": "Years 4 and 5",
+        "description": "- Facilitate Return of Student-Based Grand Rounds and Mentorship.",
+        "description2": "- Widen Opportunities For Clinical and Non-clinical Electives, Research programs, Health Technology, and Entrepreneurships Locally and Globally."
+      },
+      {
+        "level2": ".......................................",
+        "title": "For the Finalists",
+        "years": "Year 6",
+        "description": "- Network with the Alumni, KMPDU, and KMA for Mentorship on Academics, Finance, Entrepreneurship, and Leadership."
+      }
+    ]
+}

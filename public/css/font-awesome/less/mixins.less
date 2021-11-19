@@ -1,0 +1,20 @@
+// Mixins
+// --------------------------
+
+.fa-icon-rotate(@strategys, @rotation) {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=@rotation);
+  -webkit-transform: rotate(@strategys);
+  -moz-transform: rotate(@strategys);
+  -ms-transform: rotate(@strategys);
+  -o-transform: rotate(@strategys);
+  transform: rotate(@strategys);
+}
+
+.fa-icon-flip(@horiz, @vert, @rotation) {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=@rotation, mirror=1);
+  -webkit-transform: scale(@horiz, @vert);
+  -moz-transform: scale(@horiz, @vert);
+  -ms-transform: scale(@horiz, @vert);
+  -o-transform: scale(@horiz, @vert);
+  transform: scale(@horiz, @vert);
+}
