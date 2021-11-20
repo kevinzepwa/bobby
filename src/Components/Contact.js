@@ -6,7 +6,6 @@ class Contact extends Component {
     if (!this.props.data) return null;
 
     const name = this.props.data.name;
-    const phone = this.props.data.phone;
     const message = this.props.data.contactmessage;
 
     return (
@@ -106,9 +105,9 @@ class Contact extends Component {
                 <p className="address">
                   <span>{name}</span>
                   <br/>
-                  <span><a href="0700316813" target="_blank">Click to call</a></span>
+                  <span><a href="0700316813" target="_blank" rel="noreferrer">Click to call</a></span>
                   <br/>
-                  <span><a href="https://wa.me/0700316813" target="_blank">WhatsApp</a></span>
+                  <span><a href="https://wa.me/0700316813" target="_blank" rel="noreferrer">WhatsApp</a></span>
                 </p>
               </div>
 
