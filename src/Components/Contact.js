@@ -105,7 +105,7 @@ class Contact extends Component {
                 <p className="address">
                   <span>{name}</span>
                   <br/>
-                  <span><a href="+254700316813">Click to call</a></span>
+                  <span><a href="tel:+254700316813">Click to call</a></span>
                   <br/>
                   <span><a href="https://wa.me/+254700316813" target="_blank" rel="noreferrer">WhatsApp</a></span>
                 </p>
