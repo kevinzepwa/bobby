@@ -122,7 +122,7 @@ class Contact extends Component {
                    <br/>
                   <li>
                     <span>
-                      “Casting a ballot isn't just something you do for yourself, it's for our collective future.” — Oprah Winfrey, TV producer, actress, and author
+                      “Casting a ballot isn't just something you do for yourself, it's for our collective future.” <br /><t/>  <span>— Oprah Winfrey, TV producer, actress, and author </span>
                     </span>
                   </li>
                 </ul>
