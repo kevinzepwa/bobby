@@ -59,16 +59,16 @@ header .banner-text {
 }
 header .banner-text h1 {
   font: 90px/1.1em "opensans-bold", sans-serif;
-  color: rgb(3, 19, 98);
+  color: #fe6928;
   letter-spacing: -2px;
   margin: 0 auto 18px auto;
 }
 header .banner-text h3 {
-  font: 18px/1.9em "librebaskerville-regular", serif;
+  font: 38px/1.9em "librebaskerville-regular", serif;
   color: rgb(255, 255, 255);
   margin: 0 auto;
   width: 70%;
-  font-size: large;
+  font-size: larger;
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
@@ -839,7 +839,7 @@ call-to-action .button {
 footer {
   padding-top: 48px;
   margin-bottom: 48px;
-  color: #303030;
+  color: #ff8400;
   font-size: 14px;
   text-align: center;
   position: relative;
@@ -847,11 +847,11 @@ footer {
 
 footer a,
 footer a:visited {
-  color: #525252;
+  color: #ffffff;
 }
 footer a:hover,
 footer a:focus {
-  color: #fff;
+  color: rgb(255, 0, 0);
 }
 
 /* copyright */

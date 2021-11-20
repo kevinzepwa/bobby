@@ -51,7 +51,7 @@ class Header extends Component {
               <h3>{description} 
               <br/> 
               <br/>
-              WE MEEN BUSINESS!</h3>
+              WE MEAN BUSINESS!</h3>
             </Fade>
             <hr />
           </div>
