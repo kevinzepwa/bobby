@@ -23,7 +23,7 @@ class About extends Component {
             <div className="seven columns main-col">
               <h2>About Me</h2>
 
-              <p> 'Bob is a grear leader. He is passionate about serving, has demonstrated excellence in delivery and I think he has a great potential.' — Dr. Kiunzu <br/> <br/> {bio}</p>
+              <p> 'Bob is a great leader. He is passionate about serving, has demonstrated excellence in delivery and I think he has a great potential.' — Dr. Kiunzu <br/> <br/> {bio}</p>
             </div>
           </div>
         </Fade>
