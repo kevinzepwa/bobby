@@ -49,7 +49,7 @@ class Header extends Component {
             </Fade>
             <Fade bottom duration={1200}>
               <h2>{description} 
-              <br/> <br/>
+              <br/>
               Bob the Builder of Connections!</h2>
             </Fade>
             <hr />
