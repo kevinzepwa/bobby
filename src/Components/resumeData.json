@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Vincent Kiptoo",
-    "description":"Thank you for showing faith in me by nominating me for AMSUN External Affairs Representative. Now, we have the one task remaining of casting our votes.",
+    "description":"Thank you for showing faith in me by nominating me for AMSUN External Affairs Representative 🩺. Now, we have the one task remaining of casting our votes 👏🏾👏🏾.", 
     "image":"profilepic.jpg",
     "bio":"'A leader with Passion, Excellence & Experience.' My name is Vincent Kiptoo, 6th year medical student, mentor, leader, ambassador of one of the global tech giants, a research assistant, just to mention a few. I'm optimistic  that, through utilizing some of the untapped connections and partnerships, we can better AMSUN.",
     "contactmessage":"Get in Touch.",
@@ -36,11 +36,11 @@
         "level": "For the Formative Years",
         "strategy": "A Plan to Uplift all Medics",
         "Timeline": "Academics & Activities in Equal Measure",
-        "description": "1. Subsidized training for BLS and ATLS (for all).",
-        "description2": "2. Expand connection with corporate partners to fund AMSUN activities.",
-        "description3": "3. Widen Opportunities For Clinical and Non-clinical Electives, Research programs, Health Technology, and Entrepreneurships Locally and Globally.",
-        "description4": "4. Expand and link with Microsoft and Samsung, with whom I have been enganging with for 2 years now. This will foster mentorship on Health Innovation.",
-        "description5": "5. Upscaling of Mentorship program and subsidized training for BLS and ATLS (for all)."
+        "description": "1. Subsidized training for BLS and ATLS (for all) 🩺",
+        "description2": "2. Expand connection with corporate partners to fund AMSUN activities ✔️",
+        "description3": "3. Widen Opportunities For Clinical and Non-clinical Electives, Research programs, Health Technology, and Entrepreneurships Locally and Globally 🌍",
+        "description4": "4. Expand and link with Microsoft and Samsung, with whom I have been enganging with for 2 years now. This will foster mentorship on Health Innovation 👨🏽‍💻",
+        "description5": "5. Upscaling of Mentorship program"
       }
     ],
     "work": [
@@ -54,20 +54,20 @@
         "level2": ".......................................",
         "title": "For Junior Clinical Years",
         "years": "Year 3",
-        "description": "- Promote Availability of USMLE, PLAB, and AMC Materials."
+        "description": "- Promote Availability of USMLE, PLAB, and AMC Materials. 📚"
       },
       {
         "level2": ".......................................",
         "title": "For the Seniors",
         "years": "Years 4 and 5",
-        "description": "- Facilitate Return of Student-Based Grand Rounds and Mentorship.",
-        "description2": "- Widen Opportunities For Clinical and Non-clinical Electives, Research programs, Health Technology, and Entrepreneurships Locally and Globally."
+        "description": "- Facilitate Return of Student-Based Grand Rounds and Mentorship 🧑‍🏫",
+        "description2": "- Widen Opportunities For Clinical and Non-clinical Electives, Research programs, Health Technology, and Entrepreneurships Locally and Globally 👨🏽‍💻."
       },
       {
         "level2": ".......................................",
         "title": "For the Finalists",
         "years": "Year 6",
-        "description": "- Network with the Alumni, KMPDU, and KMA for Mentorship on Academics, Finance, Entrepreneurship, and Leadership."
+        "description": "- Network with the Alumni, KMPDU, and KMA for Mentorship on Academics, Finance, Entrepreneurship, and Leadership 💉"
       }
     ]
 }
