@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
 
-class About extends Component {
+export default class About extends Component {
   render() {
     if (!this.props.data) return null;
 
@@ -32,4 +32,3 @@ class About extends Component {
   }
 }
 
-export default About;

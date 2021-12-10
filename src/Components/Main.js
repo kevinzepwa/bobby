@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Slide from "react-reveal";
 
-class Resume extends Component {
+export default class Main extends Component {
   getRandomColor() {
     let letters = "0123456789ABCDEF";
     let color = "#";
@@ -78,4 +78,3 @@ class Resume extends Component {
   }
 }
 
-export default Resume;

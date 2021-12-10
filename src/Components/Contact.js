@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Fade, Slide } from "react-reveal";
 
-class Contact extends Component {
+export default class Contact extends Component {
   render() {
     if (!this.props.data) return null;
 
@@ -53,18 +53,6 @@ class Contact extends Component {
                       size="35"
                       id="contactEmail"
                       name="contactEmail"
-                      onChange={this.handleChange}
-                    />
-                  </div>
-
-                  <div>
-                    <label htmlFor="contactSubject">Subject</label>
-                    <input
-                      type="text"
-                      defaultValue=""
-                      size="35"
-                      id="contactSubject"
-                      name="contactSubject"
                       onChange={this.handleChange}
                     />
                   </div>
@@ -134,5 +122,3 @@ class Contact extends Component {
     );
   }
 }
-
-export default Contact;

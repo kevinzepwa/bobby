@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
 
-class Footer extends Component {
+export default class Footer extends Component {
   render() {
     if (!this.props.data) return null;
 
@@ -40,5 +40,3 @@ class Footer extends Component {
     );
   }
 }
-
-export default Footer;

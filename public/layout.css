@@ -20,7 +20,7 @@
 /* ------------------------------------------------------------------ */
 
 body {
-  background: #0f0f0f;
+  background: #f0a5a5;
 }
 
 /* ------------------------------------------------------------------ */
@@ -550,7 +550,7 @@ call-to-action .button {
 #message-warning,
 #message-success {
   display: none;
-  background: #0f0f0f;
+  background: #f0a5a5;
   padding: 24px 24px;
   margin-bottom: 36px;
   width: 65%;
