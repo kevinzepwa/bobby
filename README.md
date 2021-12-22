@@ -1,6 +1,6 @@
 # React Nice Resume :page_with_curl:
 
-### [LIVE DEMO](https://vincentkiptoo/netlifyapp.com)
+### [LIVE DEMO](https://vbobby/netlifyapp.com)
 
 # Description
 

@@ -24,7 +24,7 @@ export default class Footer extends Component {
 
               <ul className="copyright">
                 <li>&copy; 2021 brewed by{" "}
-                <a title="design" href="hhttps://kevinzepwa.netlify.app/">@zepwa_k</a>                
+                <a title="design" href="https://kevinzepwa.netlify.app/">@zepwa_k</a>                
                 </li>
               </ul>
             </div>

@@ -17,7 +17,7 @@ export default class About extends Component {
               <img
                 className="profile-pic"
                 src={profilepic}
-                alt="Vincent Kiptoo"
+                alt="Bobby"
               />
             </div>
             <div className="seven columns main-col">
